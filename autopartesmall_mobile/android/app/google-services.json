@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "157508616898",
+    "project_id": "go-pitts",
+    "storage_bucket": "go-pitts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157508616898:android:2aa8e37eb6cdc9bb06715b",
+        "android_client_info": {
+          "package_name": "com.gopitts.autopartes_mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157508616898-o0is8npvti52rskmjav0fi24a8l91ur6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxfv0TYv5KocYOn6LCTDPWhoTBXctUjLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157508616898-o0is8npvti52rskmjav0fi24a8l91ur6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157508616898:android:031a4f90e657313e06715b",
+        "android_client_info": {
+          "package_name": "com.gopitts.go_pitts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157508616898-o0is8npvti52rskmjav0fi24a8l91ur6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxfv0TYv5KocYOn6LCTDPWhoTBXctUjLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157508616898-o0is8npvti52rskmjav0fi24a8l91ur6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
